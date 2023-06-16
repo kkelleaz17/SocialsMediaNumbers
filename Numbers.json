@@ -1,1 +1,14 @@
-
+{
+   "twitter": {
+    "followers": 50000
+  },
+  "instagram": {
+    "followers": 100000
+  },
+  "steam": {
+    "followers": 20000
+  },
+  "discord": {
+    "followers": 15000
+  }
+}
